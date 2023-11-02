@@ -55,8 +55,11 @@ int main() {
     // Añadiendo las características a los cuerpos
     b2FixtureDef definicionCaracteristicaA, definicionCaracteristicaB;
     definicionCaracteristicaA.shape = &formaA;
+    definicionCaracteristicaA.density = 1.0f;
+    definicionCaracteristicaA.isSensor = false;
     definicionCaracteristicaB.shape = &formaB;
-    definicionCaracteristicaA.isSensor = true; // Convertirlo en un sensor
+    definicionCaracteristicaB.density = 1.0f;
+    definicionCaracteristicaA.isSensor = false; // Convertirlo en un sensor
 
     // Creación de un sensor para el cuerpoA
     cuerpoA->CreateFixture(&definicionCaracteristicaA);
