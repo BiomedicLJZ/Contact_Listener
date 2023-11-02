@@ -1,0 +1,11 @@
+# ninja log v5
+7	2451	7198678668376179	CMakeFiles/Contact_Listener.dir/Contact_listener.cpp.obj	a9bc8043fd111e22
+2453	7963	7198678688789410	Contact_Listener.exe	6cec09cb40469b5b
+2	1038	7196134276090503	CMakeFiles/Contact_Listener.dir/main.cpp.obj	9e43e51fc13c1ee2
+1	2169	7198675176256750	CMakeFiles/Contact_Listener.dir/Sensors.cpp.obj	7ca421376e70303c
+2	1484	7206590705797439	build.ninja	1165bac8762eea3e
+3	1922	7198667125302861	CMakeFiles/Contact_Listener.dir/Sensors_alone.cpp.obj	5b57585f1c502db1
+7	2096	7206591230656089	CMakeFiles/Contact_Listener.dir/Sensors.cpp.obj	7ca421376e70303c
+2100	8587	7206591259528355	Contact_Listener.exe	4e40d91171559e1a
+1	1092	7206593246634476	CMakeFiles/Contact_Listener.dir/Sensors.cpp.obj	7ca421376e70303c
+1095	4423	7206593257942115	Contact_Listener.exe	4e40d91171559e1a
